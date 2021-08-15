@@ -17,7 +17,7 @@ This project features HTML5 semantic tags, CSS and JS-DOM.
 
 ## Live Demo
 
-[Live Demo Link](https://brytebee.github.io/AwesomeBooks/)
+[Live Demo Link](https://safafa.github.io/AwesomeBooks/)
 
 
 ### Prerequisites
@@ -43,7 +43,7 @@ Knowledge of HTML Semantics CSS And JS-DOM
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/brytebee/Afro-Music-Concert/issues).
+Feel free to check the [issues page](https://github.com/safafa/AwesomeBooks/issues).
 
 ## Show your support
 
